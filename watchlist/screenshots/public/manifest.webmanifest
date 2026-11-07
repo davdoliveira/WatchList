@@ -1,0 +1,25 @@
+{
+  "name": "WatchList",
+  "short_name": "WatchList",
+  "description": "Escolhe o que ver esta noite a partir das tuas listas do Letterboxd, só com o que está nos teus serviços de streaming.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#12141f",
+  "theme_color": "#12141f",
+  "lang": "pt-PT",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
