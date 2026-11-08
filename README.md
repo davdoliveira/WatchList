@@ -6,7 +6,7 @@ O Letterboxd Pro permite filtrar listas pelos serviços onde os filmes estão di
 
 <p align="center">
   <img src="WatchList/docs/screenshots/home-detail.png" alt="Home Page" width="260">
-  <img src="Watchl´List/docs/screenshots/home-covers.png" alt="Serviços selecionados" width="260">
+  <img src="WatchList/docs/screenshots/home-covers.png" alt="Serviços selecionados" width="260">
   <img src="WatchList/docs/screenshots/filters.png" alt="Filtros" width="260">
 </p>
 
