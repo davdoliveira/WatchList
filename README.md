@@ -5,11 +5,14 @@ Uma alternativa gratuita ao filtro por serviço de streaming do Letterboxd Pro.
 O Letterboxd Pro permite filtrar listas pelos serviços onde os filmes estão disponíveis, mas é uma feature que faz parte do plano pago. Esta app faz o mesmo de graça: lê as listas do Letterboxd e cruza-as com os dados do TMDB/JustWatch, permitindo fazer uma seleção entre os catálogos dos vários serviços de streaming em Portugal.
 
 <p align="center">
-  ### Página Inicial
+
+### Página Inicial
   <img src="WatchList/docs/screenshots/home-detail.png" alt="Home Page" width="460">
-  ### Serviços de Streaming selecionados
+  
+### Serviços de Streaming selecionados
   <img src="WatchList/docs/screenshots/home-covers.png" alt="Serviços selecionados" >
-  ### Filtros
+
+### Filtros
   <img src="WatchList/docs/screenshots/filters.png" alt="Filtros" >
 </p>
 
